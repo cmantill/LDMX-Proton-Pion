@@ -1,1 +1,1 @@
-# LDMZ-Proton-Pion
+# LDMX-Proton-Pion
